@@ -1,0 +1,14 @@
+C:\Users\ferve\source\repos\PollMe\PollMe.Business\bin\Debug\netcoreapp2.2\PollMe.Business.deps.json
+C:\Users\ferve\source\repos\PollMe\PollMe.Business\bin\Debug\netcoreapp2.2\PollMe.Business.dll
+C:\Users\ferve\source\repos\PollMe\PollMe.Business\bin\Debug\netcoreapp2.2\PollMe.Business.pdb
+C:\Users\ferve\source\repos\PollMe\PollMe.Business\bin\Debug\netcoreapp2.2\PollMe.DataAccess.dll
+C:\Users\ferve\source\repos\PollMe\PollMe.Business\bin\Debug\netcoreapp2.2\PollMe.Domain.dll
+C:\Users\ferve\source\repos\PollMe\PollMe.Business\bin\Debug\netcoreapp2.2\PollMe.DataAccess.pdb
+C:\Users\ferve\source\repos\PollMe\PollMe.Business\bin\Debug\netcoreapp2.2\PollMe.Domain.pdb
+C:\Users\ferve\source\repos\PollMe\PollMe.Business\obj\Debug\netcoreapp2.2\PollMe.Business.csprojAssemblyReference.cache
+C:\Users\ferve\source\repos\PollMe\PollMe.Business\obj\Debug\netcoreapp2.2\PollMe.Business.csproj.CoreCompileInputs.cache
+C:\Users\ferve\source\repos\PollMe\PollMe.Business\obj\Debug\netcoreapp2.2\PollMe.Business.AssemblyInfoInputs.cache
+C:\Users\ferve\source\repos\PollMe\PollMe.Business\obj\Debug\netcoreapp2.2\PollMe.Business.AssemblyInfo.cs
+C:\Users\ferve\source\repos\PollMe\PollMe.Business\obj\Debug\netcoreapp2.2\PollMe.Business.csproj.CopyComplete
+C:\Users\ferve\source\repos\PollMe\PollMe.Business\obj\Debug\netcoreapp2.2\PollMe.Business.dll
+C:\Users\ferve\source\repos\PollMe\PollMe.Business\obj\Debug\netcoreapp2.2\PollMe.Business.pdb

@@ -1,0 +1,12 @@
+C:\Users\ferve\source\repos\PollMe\PollMe.DataAccess\bin\Debug\netcoreapp2.2\PollMe.DataAccess.deps.json
+C:\Users\ferve\source\repos\PollMe\PollMe.DataAccess\bin\Debug\netcoreapp2.2\PollMe.DataAccess.dll
+C:\Users\ferve\source\repos\PollMe\PollMe.DataAccess\bin\Debug\netcoreapp2.2\PollMe.DataAccess.pdb
+C:\Users\ferve\source\repos\PollMe\PollMe.DataAccess\bin\Debug\netcoreapp2.2\PollMe.Domain.dll
+C:\Users\ferve\source\repos\PollMe\PollMe.DataAccess\bin\Debug\netcoreapp2.2\PollMe.Domain.pdb
+C:\Users\ferve\source\repos\PollMe\PollMe.DataAccess\obj\Debug\netcoreapp2.2\PollMe.DataAccess.csprojAssemblyReference.cache
+C:\Users\ferve\source\repos\PollMe\PollMe.DataAccess\obj\Debug\netcoreapp2.2\PollMe.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ferve\source\repos\PollMe\PollMe.DataAccess\obj\Debug\netcoreapp2.2\PollMe.DataAccess.AssemblyInfo.cs
+C:\Users\ferve\source\repos\PollMe\PollMe.DataAccess\obj\Debug\netcoreapp2.2\PollMe.DataAccess.csproj.CopyComplete
+C:\Users\ferve\source\repos\PollMe\PollMe.DataAccess\obj\Debug\netcoreapp2.2\PollMe.DataAccess.dll
+C:\Users\ferve\source\repos\PollMe\PollMe.DataAccess\obj\Debug\netcoreapp2.2\PollMe.DataAccess.pdb
+C:\Users\ferve\source\repos\PollMe\PollMe.DataAccess\obj\Debug\netcoreapp2.2\PollMe.DataAccess.csproj.CoreCompileInputs.cache

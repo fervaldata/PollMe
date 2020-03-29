@@ -1,0 +1,8 @@
+C:\Users\ferve\source\repos\PollMe\PollMe.Domain\bin\Debug\netcoreapp3.1\PollMe.Domain.deps.json
+C:\Users\ferve\source\repos\PollMe\PollMe.Domain\bin\Debug\netcoreapp3.1\PollMe.Domain.dll
+C:\Users\ferve\source\repos\PollMe\PollMe.Domain\bin\Debug\netcoreapp3.1\PollMe.Domain.pdb
+C:\Users\ferve\source\repos\PollMe\PollMe.Domain\obj\Debug\netcoreapp3.1\PollMe.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ferve\source\repos\PollMe\PollMe.Domain\obj\Debug\netcoreapp3.1\PollMe.Domain.AssemblyInfoInputs.cache
+C:\Users\ferve\source\repos\PollMe\PollMe.Domain\obj\Debug\netcoreapp3.1\PollMe.Domain.AssemblyInfo.cs
+C:\Users\ferve\source\repos\PollMe\PollMe.Domain\obj\Debug\netcoreapp3.1\PollMe.Domain.dll
+C:\Users\ferve\source\repos\PollMe\PollMe.Domain\obj\Debug\netcoreapp3.1\PollMe.Domain.pdb

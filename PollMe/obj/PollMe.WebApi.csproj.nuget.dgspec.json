@@ -1,0 +1,278 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ferve\\source\\repos\\PollMe\\PollMe\\PollMe.WebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ferve\\source\\repos\\PollMe\\PollMe.Business\\PollMe.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ferve\\source\\repos\\PollMe\\PollMe.Business\\PollMe.Business.csproj",
+        "projectName": "PollMe.Business",
+        "projectPath": "C:\\Users\\ferve\\source\\repos\\PollMe\\PollMe.Business\\PollMe.Business.csproj",
+        "packagesPath": "C:\\Users\\ferve\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ferve\\source\\repos\\PollMe\\PollMe.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ferve\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\ferve\\source\\repos\\PollMe\\PollMe.DataAccess\\PollMe.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\ferve\\source\\repos\\PollMe\\PollMe.DataAccess\\PollMe.DataAccess.csproj"
+              },
+              "C:\\Users\\ferve\\source\\repos\\PollMe\\PollMe.Domain\\PollMe.Domain.csproj": {
+                "projectPath": "C:\\Users\\ferve\\source\\repos\\PollMe\\PollMe.Domain\\PollMe.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ferve\\source\\repos\\PollMe\\PollMe.DataAccess\\PollMe.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ferve\\source\\repos\\PollMe\\PollMe.DataAccess\\PollMe.DataAccess.csproj",
+        "projectName": "PollMe.DataAccess",
+        "projectPath": "C:\\Users\\ferve\\source\\repos\\PollMe\\PollMe.DataAccess\\PollMe.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\ferve\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ferve\\source\\repos\\PollMe\\PollMe.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ferve\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\ferve\\source\\repos\\PollMe\\PollMe.Domain\\PollMe.Domain.csproj": {
+                "projectPath": "C:\\Users\\ferve\\source\\repos\\PollMe\\PollMe.Domain\\PollMe.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ferve\\source\\repos\\PollMe\\PollMe.Domain\\PollMe.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ferve\\source\\repos\\PollMe\\PollMe.Domain\\PollMe.Domain.csproj",
+        "projectName": "PollMe.Domain",
+        "projectPath": "C:\\Users\\ferve\\source\\repos\\PollMe\\PollMe.Domain\\PollMe.Domain.csproj",
+        "packagesPath": "C:\\Users\\ferve\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ferve\\source\\repos\\PollMe\\PollMe.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ferve\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ferve\\source\\repos\\PollMe\\PollMe\\PollMe.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ferve\\source\\repos\\PollMe\\PollMe\\PollMe.WebApi.csproj",
+        "projectName": "PollMe.WebApi",
+        "projectPath": "C:\\Users\\ferve\\source\\repos\\PollMe\\PollMe\\PollMe.WebApi.csproj",
+        "packagesPath": "C:\\Users\\ferve\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ferve\\source\\repos\\PollMe\\PollMe\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ferve\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\ferve\\source\\repos\\PollMe\\PollMe.Business\\PollMe.Business.csproj": {
+                "projectPath": "C:\\Users\\ferve\\source\\repos\\PollMe\\PollMe.Business\\PollMe.Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
